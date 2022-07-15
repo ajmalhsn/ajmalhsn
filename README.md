@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajmalhsn
-- 👀 I’m interested in ... Web And Mobile Application Development
+- 👀 I’m interested in ... Full Stack Java Development
 - 🌱 I’m currently learning ... ReactJS
-- 💞️ I’m looking to collaborate on ... Python Based Projects
+- 💞️ I’m looking to collaborate on ... Java Based Projects
 - 📫 How to reach me ... https://www.linkedin.com/in/ajmalhsn/
 
 <!---
